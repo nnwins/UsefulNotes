@@ -2,6 +2,7 @@
 
 - 作者：王冰
 - 类别：深度学习，自然语言处理，机器学习，编程相关，论文写作，其他
+- Github地址：https://github.com/wbbeyourself/UsefulNotes
 - 时间：2020年5月
 
 [TOC]
