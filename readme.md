@@ -29,7 +29,7 @@
 - [Encoder-Decoder模型笔记](deeplearning/Encoder-Decoder模型笔记.pdf) 非常简洁，10分钟就能理解。
 - [BiLSTM-CRF最清晰易懂的解读](https://github.com/createmomo/CRF-Layer-on-the-Top-of-BiLSTM) 这里面分了几个小部分，拆分讲解，生动形象，英文很容易懂，别怕，学会英文自由阅读就再也不怕被错误翻译给误导了有木有。
 - [Transformer最佳解读-英文](https://jalammar.github.io/illustrated-transformer/) 中文版的可以参考[夏目博客](https://blog.csdn.net/qq_41664845/article/details/84969266)。还可参考[张俊林谈Attention](https://blog.csdn.net/malefactor/article/details/78767781) 和 [《Attention is All You Need》浅读（简介+代码）](https://kexue.fm/archives/4765)。
-- [Transformer实战]([https://wbbeyourself.github.io/2019/07/22/Transformer%E5%AE%9E%E6%88%98/](https://wbbeyourself.github.io/2019/07/22/Transformer实战/)) 这是我的博客，一行一行代码分析解读，超级详细。
+- [Transformer实战](https://wbbeyourself.github.io/2019/07/22/Transformer实战/) 这是我的博客，一行一行代码分析解读，超级详细。
 - [关于Attention Model及其本质](https://blog.csdn.net/malefactor/article/details/50550211) 一文搞懂Attention的本质。
 - [Seq2Seq详解](https://blog.csdn.net/Jerr__y/article/details/53749693) 揭开风靡一时的Seq2Seq的神秘面纱。
 - [BERT学习](deeplearning/BERT学习.pdf) BERT学习相关链接汇总。
